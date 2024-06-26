@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Resistor",
+      "price": 10,
+      "description": "10 ohm",
+      "category": "Passive components",
+      "image": "https://th.bing.com/th?id=OIP.FWqbVpFlANgDjz3_9OI5uAHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "outOfStock": false
+    },
+    {
+      "id": "2",
+      "title": "Transformer",
+      "price": 150.78,
+      "description": "24 volt",
+      "category": "Passive components",
+      "image": "https://th.bing.com/th/id/OIP.pGs60xnRbtYpkx5sqUm4HgHaF8?w=235&h=189&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "outOfStock": false
+    },
+    {
+      "id": "3",
+      "title": "Transistor",
+      "price": 20,
+      "description": "12 volt",
+      "category": "Active components",
+      "image": "https://www.nutsvolts.com/uploads/articles/NV_0419_Steber_Large.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "outOfStock": true
+    },
+    {
+      "id": "4",
+      "title": "Battery",
+      "price": 5000,
+      "description": "12 volt",
+      "category": "Battery",
+      "image": "https://digitalassets.reecegroup.com.au/m/5e8f3ab11d4c8e5a/Web_1200x900-Milwaukee-M18-High-Output-12-Ah-Battery.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "outOfStock": false
+    },
+    {
+      "id": "5",
+      "title": "SSD",
+      "price": 8000,
+      "description": "2 TB",
+      "category": "Storage devices",
+      "image": "https://th.bing.com/th/id/OIP.Wr11a8ilwYpinftMmoC1sQHaE8?w=300&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "outOfStock": false
+    },
+    {
+      "id": "6",
+      "title": "Motor",
+      "price": "502",
+      "description": "This is a 12V DC motor",
+      "category": "Passive components",
+      "image": "https://th.bing.com/th/id/OIP.60irnu-0gUfWo_RakVFgWQHaHa?w=170&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "rating": {
+        "rate": "15",
+        "count": 0
+      },
+      "outOfStock": false
+    }
+  ]
+}
